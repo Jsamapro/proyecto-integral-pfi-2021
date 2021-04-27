@@ -1,2 +1,2 @@
 Empiezo a buscar ideas por google: primero busco lamparas de motos pero no sale ni una, entonces busco lamparas de luna y me salen unas muy chulas, creo k voy a hacer eso.
-Despues de unos 5 min he buscado en pinterest diseños en 3d y me han gustado bastante, luego me han salido neones para poner en la pared y me he acabado de decidir
+Despues de unos 5 min he buscado en pinterest diseños en 3d y me han gustado bastante, luego me han salido neones para poner en la pared [](https://www.pinterest.es/search/pins/?rs=ac&len=2&q=lamparas%20neon%20pared&eq=lamparas%20neon&etslf=4891&term_meta[]=lamparas%7Cautocomplete%7C3&term_meta[]=neon%7Cautocomplete%7C3&term_meta[]=pared%7Cautocomplete%7C3) y me he acabado de decidir.
