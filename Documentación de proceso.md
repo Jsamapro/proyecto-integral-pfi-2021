@@ -7,3 +7,4 @@ David me ha traido unos cables iluminados con fibra optica, entonces he estado m
 He hecho el diseño de la caja en la que voy a poner el rayo. Voy a empezar a soldar alguna cosa que tenga.
 
 La idea que tengo seria dentro de una caja principal iria el rayo pegado a las esquinas, por fuera de esa caja iria otra caja en la que irian todas las conexiones y los cables para pasar la electricidad y los leds. 
+Laimagen de el rayo la he sacado de este enlaze: https://www.amazon.es/decorativo-decorativas-Decoraci%C3%B3n-habitaci%C3%B3n-Suministros/dp/B07S8Z24DT/ref=sr_1_4?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=neon+rayo&qid=1619695682&sr=8-4
