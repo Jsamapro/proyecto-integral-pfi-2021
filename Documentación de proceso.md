@@ -6,4 +6,4 @@ David me ha traido unos cables iluminados con fibra optica, entonces he estado m
 
 He hecho el diseño de la caja en la que voy a poner el rayo. Voy a empezar a soldar alguna cosa que tenga.
 
-La idea que tengo seria dentro de una caja principal iria el rayo pegado a las esquinas, por fuera de esa caja iria otra caja en la que irian todas las conexiones y la¡os cables para pasar la electricidad y la luz.
+La idea que tengo seria dentro de una caja principal iria el rayo pegado a las esquinas, por fuera de esa caja iria otra caja en la que irian todas las conexiones y los cables para pasar la electricidad y los leds. 
