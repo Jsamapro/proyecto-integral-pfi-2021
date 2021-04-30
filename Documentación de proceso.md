@@ -10,3 +10,5 @@ La idea que tengo seria dentro de una caja principal iria el rayo pegado a las e
 Laimagen de el rayo la he sacado de este enlaze: https://www.amazon.es/decorativo-decorativas-Decoraci%C3%B3n-habitaci%C3%B3n-Suministros/dp/B07S8Z24DT/ref=sr_1_4?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=neon+rayo&qid=1619695682&sr=8-4
 
 He hecho el diseño de las dos cajas y lo he puesto al inkscape.
+
+El archivo en PDF https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/caja%20peque%C3%B1a.pdf
