@@ -9,7 +9,7 @@ He hecho el diseño de la caja en la que voy a poner el rayo. Voy a empezar a so
 La idea que tengo seria dentro de una caja principal iria el rayo pegado a las esquinas, por fuera de esa caja iria otra caja en la que irian todas las conexiones y los cables para pasar la electricidad y los leds. 
 Laimagen de el rayo la he sacado de este enlaze: https://www.amazon.es/decorativo-decorativas-Decoraci%C3%B3n-habitaci%C3%B3n-Suministros/dp/B07S8Z24DT/ref=sr_1_4?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=neon+rayo&qid=1619695682&sr=8-4
 
-He hecho el diseño de las dos cajas y lo he puesto al inkscape, consta de una primera caja de............en la que en el interior ira otra caja mas pequeña de.............        
+He hecho el diseño de las dos cajas y lo he puesto al inkscape, consta de una primera caja de 250x150mm en la que en el interior ira otra caja mas pequeña de 200x100mm.
 
 El archivo en PDF https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/para%20imprimir.pdf
 
@@ -18,3 +18,5 @@ Estos son los bozetos en los que explico como voy a hacer la caja y a pasar los 
 
 ![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/IMG_20210429_130013.jpg)
 Esta es la ultima explicacion/bozeto.
+
+El tubo tiene 0.5 cm de ancho y estoy haciendo abujeros para pasar el tubo.
