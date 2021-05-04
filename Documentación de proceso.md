@@ -20,3 +20,7 @@ Estos son los bozetos en los que explico como voy a hacer la caja y a pasar los 
 Esta es la ultima explicacion/bozeto.
 
 El tubo tiene 0.5 cm de ancho y estoy haciendo abujeros para pasar el tubo.
+
+David ya me ha icortado en carton la caja pequeña para hacer las pruebas de luz y de elasticidad del tubo, ahora he preparado la caja grande que imprimira despues de comer el David. 
+
+![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/caja%20final%20para%20cortar.svg)
