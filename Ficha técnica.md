@@ -27,5 +27,6 @@ He dedicado bastante tiempo en realizar el diseño de la caja, estuve como 3 hor
 
 ![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/20210505_105105.jpg)
 
-
 ![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/box.svg)
+
+https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/Documentos%20finales.md
