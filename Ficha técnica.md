@@ -10,7 +10,7 @@ He fet la lampara amb forma de raig perque m'ha semblat maco i creatiu.
 
 ### Herramientas utilizadas para realizar el proyecto.
 
-Pela cables, cuter, celo, soldador, estaño, cable de goma.
+Pela cables, cuter, celo, soldador, estaño, cable de goma, carton.
 
 ### Esquema de funcionamiento del proyecto.
 
