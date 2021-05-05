@@ -3,7 +3,10 @@
 
 ### Objetivo del proyecto:
 Es una lampara, su funcion es iluminar.
-He hecho la lampara con forma de rayo porque me parecio bonito.
+He hecho la lampara con forma de rayo porque me parecio bonito y creativo.
+
+He fet una lampara, la seva funció es iluminar.
+He fet la lampara amb forma de raig perque m'ha semblat maco i creatiu.
 
 ### Herramientas utilizadas para realizar el proyecto.
 
