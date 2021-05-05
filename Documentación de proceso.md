@@ -24,3 +24,8 @@ El tubo tiene 0.5 cm de ancho y estoy haciendo abujeros para pasar el tubo.
 David ya me ha icortado en carton la caja pequeña para hacer las pruebas de luz y de elasticidad del tubo, ahora he preparado la caja grande que imprimira despues de comer el David. 
 
 ![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/caja%20final%20para%20cortar.svg)
+
+Ya tengo la caja de prueba con carton y me he fijado que falla una medida, la he rectificado y tambien he modificado la medida del abujero donde va el interuptor.
+Por lo demas todo bien, ahora me toca probar si el rayo cabe bien.
+
+![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/IMG_20210505_103035.jpg)
