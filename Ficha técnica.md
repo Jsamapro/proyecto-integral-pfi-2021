@@ -19,4 +19,6 @@ He dedicado bastante tiempo en realizar el diseño de la caja, estuve como 3 hor
 
 ### Fotografías de la lampara:
 
+![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/Photos.zip)
+
 ![](https://github.com/Jsamapro/proyecto-integral-pfi-2021/blob/main/box.svg)
