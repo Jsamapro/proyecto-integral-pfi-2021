@@ -1,4 +1,4 @@
-# Lampara rayo 
+# Lampara rayo neon
 ## Jaume Samaranch Parellada
 
 ### Objetivo del proyecto:
